@@ -1,0 +1,75 @@
+body {
+    min-height: 100vh;
+    background-color: rgb(211, 140, 58);
+}
+div#interface {
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;    
+}
+div#logo {
+    position: absolute;
+    margin-left: -25px;
+}
+div#divMenu {
+    text-align: right;
+    display: flex;
+    position: fixed;
+    top: 1;
+    right: 0;
+    gap: 3px;
+
+}
+div a.menu {
+    display: inline-block;
+    background-color: rgb(177, 71, 0);
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    transition: background-color 300ms;
+}
+div a.menu:hover  {
+    background-color: white;
+    color: rgb(177, 71, 0);
+}
+h1 {
+    font-family: Verdana;
+    font-size: 20px;
+    color: rgb(177, 71, 0);
+    text-align: center;
+    background: url('imagens/fundo-madeira.jpg') no-repeat;
+    background-size: cover;
+}
+h2 {
+    font-family: Verdana;
+    color: white;
+}
+h3 {
+    margin-top: -15px;
+}
+p {
+    font-size: 14px;
+}
+img#botImage {
+    border: 2px solid black;
+    border-radius: 15%;
+    padding: 10px;
+    margin-top: 20px;
+}
+iframe {
+    border: 6px solid black;
+}
+footer {
+    background-color: rgb(177, 71, 0);
+    padding: 1px;
+    font-family: Cooper Std;
+    color: aliceblue;
+}
+footer p {
+    text-align: center;
+    font-size: 16px;
+}
