@@ -1,0 +1,12 @@
+body {
+    background-color: #8de9fc;
+}
+div#mae {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100vh;
+}
+div#lab {
+    margin-top: 70px;
+}
