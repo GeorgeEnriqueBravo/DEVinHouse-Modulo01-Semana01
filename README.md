@@ -1,6 +1,6 @@
 # Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="imagens/logo-phil.png"/>
  
-Eu desenvolvi um site para a elaboração de 12 exercícios referentes a primeira semana do curso. <br/>
+Eu desenvolvi um site para a elaboração dos 12 exercícios referentes a primeira semana do curso. <br/>
 <a href="https://github.com/GeorgeEnriqueBravo/DEVinHouse-Semana1/blob/main/M%C3%B3dulo%201%20-%20Semana%2001%20-%20Exerc%C3%ADcios.pdf" target="_blank">
     Clique aqui
 </a> para ver a lista dos exercícios.
